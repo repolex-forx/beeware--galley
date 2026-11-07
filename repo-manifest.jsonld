@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/galley/commit/f56c310ce23389ea8ba11c3e8bffea036a8b04c7",
       "git:hexsha": "f56c310ce23389ea8ba11c3e8bffea036a8b04c7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
